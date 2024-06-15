@@ -7,6 +7,7 @@ import SearchItem from './component/SearchItem'
 import Cart from './component/Cart'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import { items } from './component/Data'
+import Footer from './component/Footer'
 
 
 function App() {
@@ -26,7 +27,7 @@ function App() {
         </Routes>
         {/* <Product /> */}
 
-
+<Footer/>
       </BrowserRouter>
 
     </div>

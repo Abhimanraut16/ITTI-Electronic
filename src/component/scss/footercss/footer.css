@@ -1,0 +1,26 @@
+.foot-panel1 {
+  background-color: #171818aa;
+  color: #fff;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.85rem;
+}
+
+.foot-panel4 {
+  background-color: gray;
+  color: white;
+  height: 80px;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.pages {
+  padding-top: 25px;
+}
+
+.copyright {
+  padding-top: 5px;
+
+}
